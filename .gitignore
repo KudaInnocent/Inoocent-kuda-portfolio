@@ -1,0 +1,38 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+*~
+*.swp
+
+# Node Modules
+node_modules/
+
+# Build Files
+dist/
+build/
+
+# Environment Variables
+.env
+
+# Dependencies
+package-lock.json
+
+# IDE Files
+.vscode/
+.idea/
+
+# Temporary Files
+*.tmp
+
+# Cache Directories
+.cache/
+
+# Compiled Python Files
+__pycache__/
+*.py[cod]
+
+# Distribution / Packaging Files
+*.egg-info/
+*.whl
